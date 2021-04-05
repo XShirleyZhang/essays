@@ -1,0 +1,9 @@
+name: "Xuening's Caffeinated_Essays"
+output_dir: "."
+navbar:
+  title: "Caffeinated_Essays"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
